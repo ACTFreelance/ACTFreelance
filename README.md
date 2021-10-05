@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ACTFreelance
 - 👀 I’m interested in learning more ways to work with WordPress to be able to provide more to my clients.
 - 🌱 I’m currently learning Memberpress for creating membereship sites.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on WordPress web design projects using the Divi theme.
 - 📫 How to reach me ...
 
 <!---
